@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WiseAi</string>
+    <string name="primary_color">Primary color</string>
+    <string name="secondary_color">Secondary color</string>
+    <string name="welcome_to_wiseai_ntry_it_out_now">Bienvenido al WiseAI\npruebalo ahora!</string>
+    <string name="write_here">Digite aqui</string>
+</resources>

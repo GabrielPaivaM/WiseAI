@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WiseAi</string>
+    <string name="primary_color">Primary color</string>
+    <string name="secondary_color">Secondary color</string>
+    <string name="welcome_to_wiseai_ntry_it_out_now">Welcome to WiseAI\nTry it out now!</string>
+    <string name="write_here">Write here</string>
+</resources>
