@@ -36,7 +36,9 @@ class MessageAdapter(private val messageList: List<Message>) :
         holder.bind(message)
     }
 
-    override fun getItemCount(): Int = messageList.size
+    override fun getItemCount(): Int {
+        return messageList.size
+    }
 
     override fun getItemViewType(position: Int): Int {
         val message = messageList[position]
